@@ -1,2 +1,6 @@
 # program_one.py
-print("Hello, this is my first Python program!")
+name = input("Enter your name: ")
+age = input("Enter your age: ")
+
+print(f"Hello, {name}! Your age is {age}.")
+
